@@ -1,0 +1,2 @@
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2Content\obj\x86\Release\ShooterXNAContent.contentprojResolveAssemblyReference.cache
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2Content\obj\x86\Release\ShooterXNAContent.contentprojResolveAssemblyReference.cache

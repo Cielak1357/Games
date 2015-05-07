@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Box.png</Source>
+      <Name>Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Box.xnb</Output>
+      <Time>2015-01-06T00:21:33.1294407+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Chodzacy.png</Source>
+      <Name>Chodzacy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Chodzacy.xnb</Output>
+      <Time>2015-01-06T00:21:33.1474417+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GraczLewo.png</Source>
+      <Name>GraczLewo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\GraczLewo.xnb</Output>
+      <Time>2015-01-06T00:21:33.1494418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GraczPrawo.png</Source>
+      <Name>GraczPrawo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\GraczPrawo.xnb</Output>
+      <Time>2015-01-06T00:21:33.1504419+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graj.png</Source>
+      <Name>Graj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Graj.xnb</Output>
+      <Time>2015-01-06T00:21:33.151442+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HP1.png</Source>
+      <Name>HP1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HP1.xnb</Output>
+      <Time>2015-01-06T00:21:33.1584424+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HP2.png</Source>
+      <Name>HP2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HP2.xnb</Output>
+      <Time>2015-01-06T00:21:33.1684429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HP3.png</Source>
+      <Name>HP3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HP3.xnb</Output>
+      <Time>2015-01-06T00:21:33.169443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Karabin.png</Source>
+      <Name>Karabin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Karabin.xnb</Output>
+      <Time>2015-01-06T00:21:33.186444+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.png</Source>
+      <Name>Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Laser.xnb</Output>
+      <Time>2015-01-06T00:21:33.1974446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Minigun.png</Source>
+      <Name>Minigun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Minigun.xnb</Output>
+      <Time>2015-01-06T00:21:33.2344467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Niesmiertelnosc.png</Source>
+      <Name>Niesmiertelnosc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Niesmiertelnosc.xnb</Output>
+      <Time>2015-01-06T00:21:33.2364468+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pistolet.png</Source>
+      <Name>Pistolet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Pistolet.xnb</Output>
+      <Time>2015-01-06T00:21:33.2644484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforma.png</Source>
+      <Name>Platforma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Platforma.xnb</Output>
+      <Time>2015-01-06T00:21:33.3684544+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PociskLaser.png</Source>
+      <Name>PociskLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PociskLaser.xnb</Output>
+      <Time>2015-01-06T00:21:33.3704545+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PociskZwykly.png</Source>
+      <Name>PociskZwykly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\PociskZwykly.xnb</Output>
+      <Time>2015-01-06T00:21:33.3724546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Rage.png</Source>
+      <Name>Rage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Rage.xnb</Output>
+      <Time>2015-01-06T00:21:33.3784549+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Serce.png</Source>
+      <Name>Serce</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Serce.xnb</Output>
+      <Time>2015-01-06T00:21:33.4044564+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Snajpa.png</Source>
+      <Name>Snajpa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Snajpa.xnb</Output>
+      <Time>2015-01-06T00:21:33.4274578+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Strzelba.png</Source>
+      <Name>Strzelba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Strzelba.xnb</Output>
+      <Time>2015-01-06T00:21:33.4474589+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tlo.png</Source>
+      <Name>Tlo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tlo.xnb</Output>
+      <Time>2015-01-06T00:21:33.4504591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wyjdz.png</Source>
+      <Name>Wyjdz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Wyjdz.xnb</Output>
+      <Time>2015-01-06T00:21:33.1154399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-01-06T00:30:27.606011+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7AA88694-5CD9-4514-B461-8EF083FCE00E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-06T00:10:21.0209983+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
