@@ -1,0 +1,132 @@
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Box.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Chodzacy.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczLewo.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczPrawo.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Graj.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP1.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP2.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP3.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Karabin.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Laser.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Minigun.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Niesmiertelnosc.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Pistolet.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Platforma.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskLaser.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskZwykly.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Rage.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Serce.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Snajpa.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Strzelba.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Tlo.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Wyjdz.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\SpriteFont1.xnb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Box.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Chodzacy.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczLewo.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczPrawo.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Graj.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP1.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP2.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP3.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Karabin.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Laser.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Minigun.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Niesmiertelnosc.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Pistolet.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Platforma.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskLaser.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskZwykly.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Rage.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Serce.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Snajpa.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Strzelba.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Tlo.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Wyjdz.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\ShooterXNA.csprojResolveAssemblyReference.cache
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe.manifest
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.application
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe.manifest
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.application
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Net.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Xml.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Xml.Linq.dll
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.xml
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Game.ico
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\GameThumbnail.png
+C:\Users\Młody\Documents\Visual Studio 2013\Projects\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\SpriteFont1.spritefont
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Game.ico
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\GameThumbnail.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Box.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Chodzacy.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczLewo.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczPrawo.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Graj.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP1.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP2.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP3.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Karabin.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Laser.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Minigun.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Niesmiertelnosc.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Pistolet.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Platforma.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskLaser.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskZwykly.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Rage.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Serce.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Snajpa.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Strzelba.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Tlo.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Wyjdz.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\SpriteFont1.xnb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Box.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Chodzacy.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczLewo.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\GraczPrawo.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Graj.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP1.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP2.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\HP3.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Karabin.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Laser.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Minigun.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Niesmiertelnosc.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Pistolet.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Platforma.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskLaser.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\PociskZwykly.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Rage.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Serce.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Snajpa.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Strzelba.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Tlo.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\Wyjdz.png
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Content\SpriteFont1.spritefont
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe.manifest
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.application
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Net.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Xml.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\System.Xml.Linq.dll
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.xml
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\ShooterXNA.csprojResolveAssemblyReference.cache
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe.manifest
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.application
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+C:\Users\Młody\Desktop\Inne\Informatyka\algorytmy\Shooter\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb
